@@ -1,5 +1,5 @@
 # inhibition_model_kinetics
-Python workflow used for "Microbial Substrate Inhibition Model Robustness: Structural Failure Analysis Under Gaussian Noise Conditions"
+Python workflow used for "Microbial Substrate Inhibition Model Robustness: Structural Failure Analysis Under Gaussian Noise Conditions." Originally coded and employed in Spyder Version 6.
 
 ### Inhibition Kinetics Data-Generation Code
 This repository contains data-generation code for the following substrate-inhibition model recovery study: 'Microbial Substrate Inhibition Model Robustness: Structural Failure Analysis Under Gaussian Noise Conditions.'
